@@ -21,9 +21,10 @@ This folder contains code of QR code webpage.
 
 ### Screenshot
 
-![Ss of Webpage](images\Desktop-100%-view-QR-screenshot.png)
+![Desktop-100%-view-QR-screenshot](https://user-images.githubusercontent.com/84846378/218538635-5c5d5e08-7617-44f6-8062-8890ea2e5456.png)
 
 ### Links
+
 
 - Solution URL: [https://github.com/mihirc0111/QR-FrontEnd-Challenege.git]
 <!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
